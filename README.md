@@ -1,5 +1,8 @@
 # Marketing Email Challenge
-* note: MSRP (manufactured suggested retail price) is listed as MSPR in csv and MRSP in sketch file which is likely a typo.
+* note: MSRP (manufactured suggested retail price) is listed as MSPR in csv and MRSP in sketch file which is likely a typo
+
+* I chose overflow auto on product descriptions to allow the user to scroll to read all information while staying within design restraints and not having a loss of information with hidden or making the font too small to read
+
 ## Overview of Files
 * index.html = initial file created to match the given sketch file
 
